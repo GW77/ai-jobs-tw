@@ -15,7 +15,7 @@ index.html（列表＋篩選）、job.html?id=N（詳情→原始連結）、pos
 本機預覽：`python3 -m http.server` 後開 http://localhost:8000 （直接雙擊 html 無法讀 jobs.json）。
 
 ## 待替換
-- 電子報表單 action `#REPLACE_WITH_BEEHIIV_FORM` → Beehiiv 免費方案（2,500 訂閱內）嵌入表單。
+- 電子報：已改為連到 beehiiv 託管訂閱頁 https://wus-newsletter.beehiiv.com/subscribe （publication「AI職缺台灣」）。
 - 刊登表單 `#REPLACE_WITH_TALLY_FORM` → Tally（免費）。
 - 付款：先手動匯款/開發票，量起來再接綠界或 Stripe。
 
